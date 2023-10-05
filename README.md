@@ -59,4 +59,6 @@ This mini-project presents a comprehensive Stop Watch system using an ATmega32 M
 - This project offers a practical implementation of a stopwatch with multiplexed 7-segment displays controlled by external interrupts for reset, pause, and resume functions.
 
 ## Schematic
+![image](https://github.com/Esraa-f28/Stop-Watch/assets/103899204/9693385c-78be-4022-b896-bdd612086eb3)
+
  
